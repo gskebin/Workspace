@@ -1,0 +1,17 @@
+package parkjugod;
+
+public class Ex20 {
+
+	public static void main(String[] args) {
+		
+		
+		int a = 0;
+		// 대대
+		for (int i = 1; i <= 3; i++) {
+			
+			
+		}
+		System.out.println(a);
+		
+	}
+}

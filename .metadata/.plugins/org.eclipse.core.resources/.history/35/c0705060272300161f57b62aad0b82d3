@@ -1,0 +1,12 @@
+package parkjugod;
+
+public class Ex00 {
+
+	public static void main(String[] args) {
+		
+		while(true){
+			System.out.println("코딩 에브리바디");
+		}
+		
+	}
+}

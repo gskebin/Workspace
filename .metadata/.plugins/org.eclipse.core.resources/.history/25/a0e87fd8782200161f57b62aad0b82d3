@@ -1,0 +1,25 @@
+package parkjugod;
+
+import java.util.Scanner;
+
+public class Ex03p {
+
+	public static void main(String[] args) {
+		
+		Scanner s = new Scanner(System.in);
+		
+		int num = s.nextInt();
+		
+		int n = 1;
+		int a = 0;
+		while (true) {
+			
+			a++;
+			if(num / n == 0){
+				break;
+			}
+			
+		}
+		
+	}
+}

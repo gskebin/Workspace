@@ -1,0 +1,20 @@
+package parkjugod;
+
+import java.util.Scanner;
+
+public class Ex05p {
+
+	public static void main(String[] args) {
+
+		Scanner scan = new Scanner(System.in);
+
+		int a;
+		a = scan.nextInt();
+
+		while (true) {
+			if (a == 0) {
+				break;
+			}
+		}
+	}
+}

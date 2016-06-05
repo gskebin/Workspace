@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;강의6_0523.Ex06&apos; to &apos;Ex11&apos;&#x0D;&#x0A;- Original project: &apos;0528&apos;&#x0D;&#x0A;- Original element: &apos;강의6_0523.Ex06&apos;&#x0D;&#x0A;- Renamed element: &apos;강의6_0523.Ex11&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Ex06&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;강의6_0523{Ex06.java[Ex06" matchStrategy="1" name="Ex11" qualified="false" references="true" similarDeclarations="false" stamp="1464498660862" textual="false" version="1.0"/>
+</session>

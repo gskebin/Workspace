@@ -1,0 +1,10 @@
+package parkjugod;
+
+import java.util.Scanner;
+
+public class Ex06p {
+
+	public static void main(String[] args) {
+		
+	}
+}

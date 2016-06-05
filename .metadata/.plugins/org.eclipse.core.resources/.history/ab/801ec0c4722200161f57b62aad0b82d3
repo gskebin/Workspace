@@ -1,0 +1,14 @@
+package parkjugod;
+
+public class Ex09p {
+
+	public static void main(String[] args) {
+		
+		int i = 0;
+		while (true) {
+			
+			
+			
+		}
+	}
+}
